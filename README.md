@@ -1,2 +1,4 @@
 # sy-permana.github.io
-Menghias HTML dengan CSS
+Surya Permana
+
+tugas Menghias HTML dengan CSS ada di folder /project-css-styling
