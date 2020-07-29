@@ -13,7 +13,9 @@ body {
     background:#ecded3 url(images/bg.jpg) no-repeat fixed;
     margin: 0;
 }
-
+a {
+    text-decoration: none;
+}
 /* Grid */
 .grid-container {
     display: grid;
@@ -128,6 +130,7 @@ nav ul a {
 .left article p {
     text-align: left;
     margin: 0;
+    color: black;
 }
 
 .left article h5 {
